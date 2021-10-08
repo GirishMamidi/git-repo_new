@@ -2,3 +2,7 @@ Hi
 Hello
 First program
 updated line with sandesh
+updated after ssh config.
+root ssh-keygen
+generate public and private key. copy public key and updated in github newkeyssh.
+take ssh url from code. and clone in local
