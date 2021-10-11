@@ -6,3 +6,4 @@ updated after ssh config.
 root ssh-keygen
 generate public and private key. copy public key and updated in github newkeyssh.
 take ssh url from code. and clone in local
+i generated private key with one user generate ssh, after another user how to access these ssh key.
