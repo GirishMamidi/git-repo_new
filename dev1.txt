@@ -6,4 +6,8 @@ updated after ssh config.
 root ssh-keygen
 generate public and private key. copy public key and updated in github newkeyssh.
 take ssh url from code. and clone in local
-i generated private key with one user generate ssh, after another user how to access these ssh key.
+i generated private key with one user generate 
+ssh, after another user how to access these ssh key.
+
+created branch using git branch branch name, git push origin branch name
+current in devlop branch
